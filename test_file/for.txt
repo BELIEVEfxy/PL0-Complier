@@ -1,0 +1,22 @@
+var n,a, b, c, max;
+procedure for_test;
+var i, n;
+begin
+	read(n);
+	for i := 1 to 3 do
+		begin
+			n := 2 * n;
+			write(n);
+		end;
+	read(n);
+	for i := 5 downto 3 do
+		begin
+			n := (i + 1) * n;
+			write(n);
+		end;
+end;
+
+
+begin
+	call for_test;
+end. 
