@@ -1,0 +1,10 @@
+var i, j, a, abcdefghijklmnopqrstuvwxyz;
+begin
+	3a := 0;
+	for _i := 1; i <= 1.0 do
+		begin
+			1_a := a@3 + 1_;
+			i := i + 12345678901234567890;
+		end;
+	write(a);
+end.
